@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="606bed00-0484-4788-883a-5e8f883215a2" name="Default Changelist" comment="" />
+    <list default="true" id="606bed00-0484-4788-883a-5e8f883215a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ventas/Ventas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ventas/Ventas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1b2q2PbiG5xaca51lXHJ8rR9Ypm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -62,22 +70,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="491" y="105" width="503" height="556" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1587840742440" />
-    <state width="1320" height="187" key="GridCell.Tab.0.bottom" timestamp="1587852577689">
+    <state width="1320" height="187" key="GridCell.Tab.0.bottom" timestamp="1587853044991">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587852577689" />
-    <state width="1320" height="187" key="GridCell.Tab.0.center" timestamp="1587852577687">
+    <state width="1320" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587853044991" />
+    <state width="1320" height="187" key="GridCell.Tab.0.center" timestamp="1587853044989">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587852577687" />
-    <state width="1320" height="187" key="GridCell.Tab.0.left" timestamp="1587852577685">
+    <state width="1320" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587853044989" />
+    <state width="1320" height="187" key="GridCell.Tab.0.left" timestamp="1587853044988">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587852577685" />
-    <state width="1320" height="187" key="GridCell.Tab.0.right" timestamp="1587852577687">
+    <state width="1320" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587853044988" />
+    <state width="1320" height="187" key="GridCell.Tab.0.right" timestamp="1587853044990">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587852577687" />
+    <state width="1320" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587853044990" />
     <state x="342" y="172" key="run.anything.popup" timestamp="1587852670396">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
